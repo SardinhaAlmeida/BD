@@ -1,8 +1,6 @@
 # BD 2023 - Final Project
 
-Este projeto foi realizado no âmbito da cadeira de Base de Dados e tem como objetivo recriar um * sistema de gestão de dados de festivais de verão *.
-
-Este projeto 
+Este projeto foi realizado no âmbito da cadeira de Base de Dados e tem como objetivo recriar um *sistema de gestão de dados de festivais de verão*.
 
 ## Authors:
 * [Sara Almeida](https://github.com/SardinhaAlmeida)
